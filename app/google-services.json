@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749065749996",
+    "firebase_url": "https://myfbstorage-59fe3.firebaseio.com",
+    "project_id": "myfbstorage-59fe3",
+    "storage_bucket": "myfbstorage-59fe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749065749996:android:f7692ae07c346ee2",
+        "android_client_info": {
+          "package_name": "edu.somaiya.myfbstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749065749996-303e7hq2slvcnnu2icff4u8cuqopb9df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.somaiya.myfbstorage",
+            "certificate_hash": "9a1a5cb80f7aef2df2c6130b9588634a8c1c6c1f"
+          }
+        },
+        {
+          "client_id": "749065749996-o3fh44qdfh8hn9pmsem5hj906pgpcvhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiTFLrYgpIUOwNSescbXD8QMlAWASH-b0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749065749996-o3fh44qdfh8hn9pmsem5hj906pgpcvhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
